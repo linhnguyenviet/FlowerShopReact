@@ -12,6 +12,6 @@ After doing this, i have learned  :
  + how to work in a team, Agile, Git.
  + the workflow of a e-commerce app
  ...
- 
+ My roles : 
  Hope this will be a big jump for me to make better applications in the future.
  Thanks for your time !
